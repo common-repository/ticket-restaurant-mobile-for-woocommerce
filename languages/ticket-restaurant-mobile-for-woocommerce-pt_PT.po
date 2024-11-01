@@ -1,0 +1,537 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Ticket Restaurant Mobile for WooCommerce\n"
+"POT-Creation-Date: 2020-08-07 18:40+0100\n"
+"PO-Revision-Date: 2020-08-07 18:41+0100\n"
+"Last-Translator: Paycritical <plugins@paycritical.com>\n"
+"Language-Team: Paycritical <plugins@paycritical.com>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-wc-ticketrestaurant-callback.php:20
+msgid "Error"
+msgstr "Erro"
+
+#: includes/class-wc-ticketrestaurant-callback.php:23
+msgid "Success"
+msgstr "Sucesso"
+
+#: includes/class-wc-ticketrestaurant-callback.php:35
+msgid "Auth failed"
+msgstr "Autenticação falhada"
+
+#: includes/class-wc-ticketrestaurant-callback.php:40
+msgid "Invalid data"
+msgstr "Dados inválidos"
+
+#: includes/class-wc-ticketrestaurant-callback.php:46
+msgid "Payment Id error"
+msgstr "Erro no ID de pagamento"
+
+#: includes/class-wc-ticketrestaurant-callback.php:54
+msgid "No orders found"
+msgstr "Nenhuma encomenda encontrada"
+
+#: includes/class-wc-ticketrestaurant-callback.php:58
+msgid "More than one order with this payment Id"
+msgstr "Existe mais de uma encomenda com este ID de pagamento"
+
+#: includes/class-wc-ticketrestaurant-callback.php:73
+#: includes/class-wc-ticketrestaurant-callback.php:83
+#: includes/class-wc-ticketrestaurant-callback.php:93
+msgid "Order is not on-hold or pending status"
+msgstr "A encomenda não está a aguardar confirmação de pagamento ou pendente"
+
+#: includes/class-wc-ticketrestaurant-callback.php:76
+msgid "Payment accepted by customer"
+msgstr "Pagamento aceite pelo cliente"
+
+#: includes/class-wc-ticketrestaurant-callback.php:78
+msgid "Processing order"
+msgstr "A processar encomenda"
+
+#: includes/class-wc-ticketrestaurant-callback.php:86
+msgid "Payment refused by customer"
+msgstr "Pagamento recusado pelo cliente"
+
+#: includes/class-wc-ticketrestaurant-callback.php:88
+msgid "Order cancelled"
+msgstr "Encomenda cancelada"
+
+#: includes/class-wc-ticketrestaurant-callback.php:96
+msgid "Payment expired"
+msgstr "Pagamento expirado"
+
+#: includes/class-wc-ticketrestaurant-callback.php:98
+msgid "Order failed, payment expired"
+msgstr "Encomenda falhada, pagamento expirado"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:17
+#: includes/class-wc-ticketrestaurant-mobile.php:91
+msgid "Ticket Restaurant Mobile"
+msgstr "Ticket Restaurant Mobile"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:69
+#: includes/class-wc-ticketrestaurant-mobile.php:83
+msgid "Authorization Token"
+msgstr "Token de autorização"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:71
+#: includes/class-wc-ticketrestaurant-mobile.php:85
+msgid "Your authorization token on Ticket Restaurant Mobile"
+msgstr "O seu token de autorização Ticket Restaurant Mobile"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:77
+msgid "Enable/Disable"
+msgstr "Activar/Desactivar"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:79
+msgid "Enable Ticket Restaurant Mobile"
+msgstr "Activar Ticket Restaurant Mobile"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:88
+msgid "Title"
+msgstr "Título"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:90
+msgid "This controls the title which the user sees during checkout."
+msgstr "Isto controla o título que o utilizador vê na fase de pagamento."
+
+#: includes/class-wc-ticketrestaurant-mobile.php:94
+msgid "Description"
+msgstr "Descrição"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:96
+msgid "This controls the description which the user sees during checkout."
+msgstr "Isto controla a descrição que o utilizador vê na fase de pagamento."
+
+#: includes/class-wc-ticketrestaurant-mobile.php:97
+msgid "Pay with Ticket Restaurant Mobile"
+msgstr "Pagar com Ticket Restaurant Mobile"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:100
+msgid "Instructions"
+msgstr "Instruções de pagamento"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:102
+msgid ""
+"Instructions that will be added to the thank you page and email sent to "
+"customer."
+msgstr ""
+"Instruções que serão adicionadas à página de confirmação da encomenda e "
+"email enviado ao cliente."
+
+#: includes/class-wc-ticketrestaurant-mobile.php:103
+msgid "Authorize payment on your Ticket Restaurant Mobile app"
+msgstr "Autorize o pagamento na aplicação Ticket Restaurant Mobile"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:106
+msgid "Only for Portuguese customers?"
+msgstr "Apenas para clientes portugueses?"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:108
+msgid "Enable only for customers whose address is in Portugal"
+msgstr "Activar apenas para clientes em que o endereço seja em Portugal"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:112
+msgid "Only for orders above"
+msgstr "Apenas para encomendas acima de"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:114
+msgid ""
+"Enable only for orders above x &euro; (exclusive). Leave blank (or zero) to "
+"allow for any order value."
+msgstr ""
+"Activar apenas para encomendas acima de x &euro; (exclusive). Deixe em "
+"branco (ou zero) para activar para qualquer valor de encomenda."
+
+#: includes/class-wc-ticketrestaurant-mobile.php:118
+msgid "Only for orders below"
+msgstr "Apenas para encomendas abaixo de"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:120
+msgid ""
+"Enable only for orders below x &euro; (exclusive). Leave blank (or zero) to "
+"allow for any order value."
+msgstr ""
+"Activar apenas para encomendas abaixo de x &euro; (exclusive). Deixe em "
+"branco (ou zero) para activar para qualquer valor de encomenda."
+
+#: includes/class-wc-ticketrestaurant-mobile.php:124
+msgid "Reduce stock"
+msgstr "Reduzir stock"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:126
+msgid "Choose when to reduce stock."
+msgstr "Escolha quando reduzir o stock."
+
+#: includes/class-wc-ticketrestaurant-mobile.php:129
+msgid "when order is paid (requires active callback)"
+msgstr "quando a encomenda é paga (requer 'callback' activo)"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:130
+msgid "when order is placed (before payment)"
+msgstr "quando a encomenda é colocada (antes do pagamento)"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:156
+msgid "Configuration error. This store currency is not Euros (&euro;)."
+msgstr "Erro de configuração. A moeda desta loja não é Euros (&euro;)."
+
+#: includes/class-wc-ticketrestaurant-mobile.php:161
+msgid ""
+"It's not possible to use Ticket Restaurant Mobile to pay values under "
+"0.10&euro; or above 2000&euro;."
+msgstr ""
+"Não é possível utilizar o Ticket Restaurant Mobile para pagar valores abaixo "
+"de 0.10&euro; nem acima de 2000&euro;."
+
+#: includes/class-wc-ticketrestaurant-mobile.php:243
+msgid "Phone number registered on Ticket Restaurant Mobile"
+msgstr "Número de telefone registado no Ticket Restaurant Mobile"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:243
+msgid "If different of billing phone"
+msgstr "Se diferente do telefone de facturação"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:244
+msgid "Fill in, if different from the billing phone."
+msgstr "Preencher, se diferente do telefone de facturação."
+
+#: includes/class-wc-ticketrestaurant-mobile.php:260
+#: includes/class-wc-ticketrestaurant-mobile.php:266
+#: includes/class-wc-ticketrestaurant-mobile.php:273
+msgid "Payment error:"
+msgstr "Erro de pagamento:"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:265
+msgid "Invalid phone number"
+msgstr ""
+"Número de telefone inválido ou não registado no Ticket Restaurant Mobile"
+
+#: includes/class-wc-ticketrestaurant-mobile.php:282
+msgid "Awaiting Ticket Restaurant Mobile payment."
+msgstr "A aguardar pagamento por Ticket Restaurant Mobile."
+
+#: includes/views/html-admin-page.php:11
+msgid "ERROR!"
+msgstr "ERRO!"
+
+#: includes/views/html-admin-page.php:11
+#, php-format
+msgid "Set WooCommerce currency to <strong>Euros (&euro;)</strong> %1$s"
+msgstr ""
+"Defina a moeda do WooCommerce para <strong>Euros (&euro;)</strong> %1$s"
+
+#: includes/views/html-admin-page.php:11
+msgid "here"
+msgstr "aqui"
+
+#: includes/views/html-admin-page.php:25
+msgid ""
+"Please configure your authorization token in order to activate Ticket "
+"Restaurant Mobile gateway"
+msgstr ""
+"Por favor configure o token de autorização para activar o método de "
+"pagamento Ticket Restaurant Mobile"
+
+#: includes/views/order-meta-box.php:12
+#: templates/emails/html-instructions.php:13
+#: templates/emails/plain-instructions.php:11
+#: templates/payment-instructions.php:36
+msgid "Reference"
+msgstr "Referência"
+
+#: includes/views/order-meta-box.php:13
+#: templates/emails/html-instructions.php:17
+#: templates/emails/plain-instructions.php:15
+#: templates/payment-instructions.php:40
+msgid "Phone Number"
+msgstr "Telefone"
+
+#: includes/views/order-meta-box.php:14
+#: templates/emails/html-instructions.php:21
+#: templates/emails/plain-instructions.php:19
+#: templates/payment-instructions.php:44
+msgid "Value"
+msgstr "Valor"
+
+#: includes/views/order-meta-box.php:18
+msgid "No details available"
+msgstr "Sem detalhes disponíveis"
+
+#: templates/emails/html-instructions.php:7
+#: templates/emails/plain-instructions.php:5
+#: templates/payment-instructions.php:30
+msgid "Payment instructions"
+msgstr "Instruções de pagamento"
+
+#: templates/emails/html-instructions.php:25
+#: templates/emails/plain-instructions.php:24
+#: templates/payment-instructions.php:48
+msgid "Accept this payment at your Ticket Restaurant Mobile mobile app."
+msgstr "Autorize o pagamento na sua aplicação Ticket Restaurant Mobile."
+
+#: templates/emails/html-instructions.php:29
+#: templates/emails/plain-instructions.php:26
+msgid "Error getting payment details"
+msgstr "Erro ao obter os dados de pagamento"
+
+#: templates/emails/plain-instructions.php:7
+msgid "Entity"
+msgstr "Entidade"
+
+#: templates/payment-instructions.php:51
+msgid "Não recebeu a notificação?"
+msgstr ""
+
+#: templates/payment-instructions.php:73
+msgid "Payment request resent, check your device"
+msgstr "Pedido de pagamento enviado, verifique a aplicação"
+
+#: templates/payment-instructions.php:75 templates/payment-instructions.php:79
+msgid "An error has ocurred"
+msgstr "Ocorreu um erro"
+
+#: ticket-restaurant-for-woocommerce.php:105
+msgid "Settings"
+msgstr "Configurações"
+
+#: ticket-restaurant-for-woocommerce.php:144
+msgid "Ticket Restaurant Mobile Payment Details"
+msgstr "Detalhes de pagamento Ticket Restaurant Mobile"
+
+#: ticket-restaurant-for-woocommerce.php:160
+#, php-format
+msgid ""
+"Ticket Restaurant Mobile for WooCommerce Gateway depends on the last version "
+"of %s to work!"
+msgstr ""
+"O Ticket Restaurant Mobile para WooCommerce necessita da última versão do %s "
+"para funcionar!"
+
+#: ticket-restaurant-for-woocommerce.php:160
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#~ msgid "Ticket Restaurant Mobile services integration."
+#~ msgstr "Integração com os serviços Ticket Restaurant Mobile."
+
+#~ msgid "API Key"
+#~ msgstr "Chave API"
+
+#, php-format
+#~ msgid ""
+#~ "Please enable webhooks on Ticket Restaurant dashboard to this URL: <code>"
+#~ "%s</code> with authentication code <code>%s</code>"
+#~ msgstr ""
+#~ "Por favor activa a configuração de Webhooks no painel do Ticket "
+#~ "Restaurant para este endereço <code>%s</code> com o código de autorização "
+#~ "<code>%s</code>"
+
+#~ msgid "Sandbox mode"
+#~ msgstr "Modo de testes"
+
+#~ msgid "Enable sandbox mode"
+#~ msgstr "Activar modo de testes"
+
+#~ msgid "Multibanco"
+#~ msgstr "Multibanco"
+
+#, php-format
+#~ msgid ""
+#~ "Please activate callback to this url on Ticket Restaurant dashboard: "
+#~ "<code>%s</code>"
+#~ msgstr ""
+#~ "Por favor active a notificação por url no painel do Ticket Restaurant "
+#~ "Mobile para este endereço: <code>%s</code>"
+
+#~ msgid "Debug Log"
+#~ msgstr "Registo de erros"
+
+#~ msgid "Enable logging"
+#~ msgstr "Activar registo"
+
+#, php-format
+#~ msgid "Log plugin events, such as callback requests, inside <code>%s</code>"
+#~ msgstr ""
+#~ "Efectuar log dos eventos do plugin, como chamadas de <i>callback</i> em "
+#~ "<code>%s</code>"
+
+#~ msgid "Debug to email"
+#~ msgstr "Log de depuração para email"
+
+#~ msgid "Enable email logging"
+#~ msgstr "Ativar logs para email"
+
+#~ msgid "Send plugin events to this email address, such as callback requests."
+#~ msgstr ""
+#~ "Enviar log dos eventos do plugin para este endereço de email, como "
+#~ "chamadas de <i>callback</i>."
+
+#~ msgid "TicketRestaurant"
+#~ msgstr "TicketRestaurant"
+
+#~ msgid "Channel Name"
+#~ msgstr "Nome do Canal"
+
+#~ msgid "Account Channel"
+#~ msgstr "Canal da Conta"
+
+#~ msgid ""
+#~ "It's not possible to use Multibanco to pay values under 1&euro; or above "
+#~ "999999&euro;."
+#~ msgstr ""
+#~ "Não é possivel utilizar o Multibanco para pagar valores abaixo de 1&euro; "
+#~ "nem acima de 999999&euro;."
+
+#~ msgid "Limit Date"
+#~ msgstr "Data limite"
+
+#~ msgid ""
+#~ "The receipt issued by the ATM machine is a proof of payment. Keep it."
+#~ msgstr ""
+#~ "O recibo emitido pelo terminal Multibanco é prova de pagamento. Guarde-o."
+
+#, fuzzy
+#~| msgid "Authorize payment on your Ticket Restaurant Mobile app"
+#~ msgid "Accept this payment with your Ticket Restaurant Mobile mobile app"
+#~ msgstr "Autorize o pagamento na aplicação Ticket Restaurant Mobile"
+
+#~ msgid "Accept this payment at your Ticket Restaurant Mobile mobile app"
+#~ msgstr "Autorize o pagamento na aplicação Ticket Restaurant Mobile"
+
+#~ msgid "Accept this payment at your MBWAY mobile app."
+#~ msgstr ""
+#~ "Aceite o pagamento na aplicação Ticket Restaurant Mobile do seu "
+#~ "smartphone/tablet."
+
+#~ msgid "Accept this payment at your MBWAY mobile app"
+#~ msgstr ""
+#~ "Aceite o pagamento na aplicação Ticket Restaurant Mobile do seu "
+#~ "smartphone/tablet"
+
+#~ msgid "Accept this payment with your MBWAY mobile app"
+#~ msgstr "Aceite este pagamento com a sua aplicação Ticket Restaurant Mobile"
+
+#~ msgid "PayShop"
+#~ msgstr "PayShop"
+
+#~ msgid "MBWAY"
+#~ msgstr "MBWAY"
+
+#~ msgid "Pagaqui"
+#~ msgstr "Pagaqui"
+
+#~ msgid "Credit Card (TicketRestaurant)"
+#~ msgstr "Cartão de crédito (TicketRestaurant)"
+
+#~ msgid "Enable Credit Card (using euPago)"
+#~ msgstr "Activar cartão de crédito (TicketRestaurant)"
+
+#~ msgid "Credit Card"
+#~ msgstr "Cartão de crédito"
+
+#~ msgid "Pay with credit card"
+#~ msgstr "Pagar com cartão de crédito"
+
+#~ msgid "Logo"
+#~ msgstr "Logotipo"
+
+#~ msgid "Shop Logo for payment page"
+#~ msgstr "Logotipo para a página de pagamento"
+
+#~ msgid ""
+#~ "By design, Mulitibanco only allows payments from 1 to 999999 &euro; "
+#~ "(inclusive). You can use this option to further limit this range."
+#~ msgstr ""
+#~ "O serviço Multibanco apenas aceita pagamentos entre 1 e 999999 &euro; "
+#~ "(inclusive). Pode utilizar esta opção para limitar ainda mais este "
+#~ "intervalo de valores."
+
+#~ msgid "MBWAY (TicketRestaurant)"
+#~ msgstr "MBWAY (TicketRestaurant)"
+
+#~ msgid "Enable MBWAY (using euPago)"
+#~ msgstr "Activar MBWAY"
+
+#~ msgid ""
+#~ "You will receive a notification in your MBWAY. When you open the "
+#~ "notification you will be asked to confirm the purchase by simply entering "
+#~ "your MB WAY PIN."
+#~ msgstr ""
+#~ "Irá receber nos seus dispositivos inscritos no MB WAY uma notificação. Ao "
+#~ "abrir a notificação será solicitado que valide a compra bastando para tal "
+#~ "introduzir o seu PIN MB WAY."
+
+#~ msgid "Invalid phone number or not registered at MBWAY"
+#~ msgstr "Número de telefone inválido ou não registado no MBWAY"
+
+#~ msgid "Awaiting MBWAY payment."
+#~ msgstr "A aguardar pagamento MBWAY."
+
+#~ msgid "Pagamento de Serviços no Multibanco (TicketRestaurant)"
+#~ msgstr "Pagamento de Serviços no Multibanco (TicketRestaurant)"
+
+#~ msgid "Enable \"Pagamento de Serviços no Multibanco\" (using euPago)"
+#~ msgstr "Activar “Pagamento de Serviços no Multibanco” (utilizando euPago)"
+
+#~ msgid "Pagamento de Serviços no Multibanco"
+#~ msgstr "Pagamento de Serviços no Multibanco"
+
+#~ msgid ""
+#~ "Easy and simple payment using \"Pagamento de Serviços\" at any "
+#~ "\"Multibanco\" ATM terminal or your Home Banking service. (Only available "
+#~ "to customers of Portuguese banks. Payment service provided by "
+#~ "ticketrestaurant.)"
+#~ msgstr ""
+#~ "Pagamento fácil e simples através de “Pagamento de Serviços” no "
+#~ "Multibanco ou no serviço do seu banco online. (Apenas disponível para "
+#~ "clientes de bancos portugueses. Serviço de pagamento fornecido por "
+#~ "TicketRestaurant.)"
+
+#~ msgid "Duplicate payments"
+#~ msgstr "Pagamentos duplicados"
+
+#~ msgid "Allow duplicate payments."
+#~ msgstr "Permitir pagamentos duplicados"
+
+#~ msgid "No"
+#~ msgstr "Não"
+
+#~ msgid "Yes"
+#~ msgstr "Sim"
+
+#~ msgid "Expire Date"
+#~ msgstr "Data limite"
+
+#~ msgid "Awaiting Multibanco payment."
+#~ msgstr "A aguardar pagamento Multibanco."
+
+#~ msgid "Pagaqui (TicketRestaurant)"
+#~ msgstr "Pagaqui (TicketRestaurant)"
+
+#~ msgid "Enable Pagaqui (using euPago)"
+#~ msgstr "Activar Pagaqui"
+
+#~ msgid "Pay at Pagaqui agent"
+#~ msgstr "Efectue o pagamento num agente Pagaqui"
+
+#~ msgid "Awaiting Pagaqui payment."
+#~ msgstr "A aguardar pagamento Pagaqui."
+
+#~ msgid "Enable PayShop (using euPago)"
+#~ msgstr "Activar PayShop"
+
+#~ msgid "Pay at PayShop agent"
+#~ msgstr "Efectue o pagamento num agente PayShop"
+
+#~ msgid "Awaiting PayShop payment."
+#~ msgstr "A aguardar pagamento PayShop."
